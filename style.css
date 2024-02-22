@@ -1,0 +1,8 @@
+#inner{
+    padding: 20px;
+    margin:5%;
+    border: solid purple 3px;
+}
+#outer{
+    border: dotted red 2px;
+}
